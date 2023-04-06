@@ -12,9 +12,6 @@ add from login -222222222222222
 
 555555555
 
-<<<<<<< HEAD
 
 66666666666-local
-=======
 6666666666-remote
->>>>>>> 8d2c9f841b62f944febfc6f2baf67d0a982af0bd
